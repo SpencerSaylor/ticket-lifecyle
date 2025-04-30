@@ -50,6 +50,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="" height="80%" width="80%" alt=""/>
 </p>
 <p>
-
+ We'll then make revisions to the ticket in order to reflect the appropriate SLA and department.
+ 
 </p>
 <br />
