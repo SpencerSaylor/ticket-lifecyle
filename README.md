@@ -36,7 +36,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="" height="80%" width="80%" alt=""/>
 </p>
 <p>
-
+ As one of the agents, we'll observe the tickets poroperties such as: 
+ <ol>
+  <li>Priority</li>
+  <li>Department</li>
+  <li>SLA</li>
+  <li>Assigned to</li>
+ </ol>
 </p>
 <br />
 
