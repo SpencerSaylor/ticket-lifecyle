@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/Q2vXgvd.png" height="80%" width="80%" alt="Agent Ticket"/>
 </p>
 <p>
  As one of the agents, we'll observe the tickets poroperties such as: 
