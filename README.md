@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/gSIqfCR.png" height="80%" width="80%" alt="end-user-ticket"/>
 </p>
 <p>
  We'll begin by creating a ticket as an end-user. The ticket issued os for the entire online/ mobile banking system being down.
@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/gSIqfCR.png" height="80%" width="80%" alt="end-user-ticket"/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <p>
 
